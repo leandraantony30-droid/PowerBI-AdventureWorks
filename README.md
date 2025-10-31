@@ -67,9 +67,11 @@ Gain insights into total customers by:
 📦 PowerBI-AdventureWorks
 ┣ 📂 pbix
 ┃ ┗ 📄 Adventure works POWER BI Project.pbix
+
 ┣ 📂 assets
 ┃ ┣ 📸 Sales_Dashboard.png
 ┃ ┣ 🌍 Regional_Map.png
 ┃ ┗ 👥 Customer_Insights.png
+
 ┣ 📄 README.md
 ┗ 📄 .gitattributes
