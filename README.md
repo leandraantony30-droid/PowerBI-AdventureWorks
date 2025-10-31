@@ -65,6 +65,7 @@ Gain insights into total customers by:
 ## 📁 Repository Structure  
 
 📦 PowerBI-AdventureWorks
+
 ┣ 📂 pbix
 ┃ ┗ 📄 Adventure works POWER BI Project.pbix
 
@@ -74,4 +75,5 @@ Gain insights into total customers by:
 ┃ ┗ 👥 Customer_Insights.png
 
 ┣ 📄 README.md
+
 ┗ 📄 .gitattributes
